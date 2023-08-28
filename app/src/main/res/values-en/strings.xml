@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">There\'s no products to show.</string>
+    <string name="add">Add Product</string>
+    <string name="nuevo">New Product</string>
+    <string name="regresar">Back</string>
+</resources>

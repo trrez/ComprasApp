@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComprasApp</string>
+    <string name="texto">No hay productos que mostrar</string>
+    <string name="add">Agregar Producto</string>
+    <string name="nuevo">Nuevo Producto</string>
+    <string name="regresar">Regresar</string>
+</resources>
